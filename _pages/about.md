@@ -16,3 +16,4 @@ Being as a Master student of Marketing Intelligence in USFCA, you gotta need to 
 For more info
 ------
 More info about Kyle, feel free to contact me.
+![Kyle](/images/og_images.webp "Kyle is here")
