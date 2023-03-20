@@ -20,7 +20,7 @@ Work experience
 * 2016 - 2022: Head of Sales & Marketing – Strategy, Revenue Generation
   * EMC - Taipei, Taiwan\
   Duties included: 
-    * Lead sales and marketing strategies for leading language school, serving 500 students and generating $300,000 revenue annually.  Personally managed sales over $100,000 / year
+    * Lead sales and marketing strategies for leading language school, serving 500 students and generating USD300,000 revenue annually.  Personally managed sales over USD100,000 / year
     * Created marketing campaigns for whole company to executed and 150% growth
     * Studied 3 years of marketing data and students test result data with R into report for owner building decision
     * Maintained content of official website, 500 followers Instagram account and 12000 users of Facebook group
