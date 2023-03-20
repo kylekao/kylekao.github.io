@@ -10,7 +10,7 @@ redirect_from:
 
 Being as a Master student of Marketing Intelligence in USFCA, you gotta need to promote yourself and trying to learn new things through and possibilities and develop your skill set into maximum.
 
-This website is just a little showcase of how capable I am and my interests.
+### This website is just a little showcase of how capable I am and my interests.
 
 For more info
 ------
