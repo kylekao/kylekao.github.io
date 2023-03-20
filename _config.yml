@@ -15,7 +15,6 @@ url                      : https://kylekao.github.io # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kylekao/kylekao.github.io"
 og_image                 : "/images/og_image.webp" # Open Graph/Twitter default site image
-icon                     : "/images/profile.webp"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
