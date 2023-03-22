@@ -1,9 +1,7 @@
 ---
-title: "Projects"
+title: "# My Projects"
 collection: portfolio
 ---
-
-# My Projects
 ### A. Marketing Analytics
 [Time Series and Causal Analysis on finding out what causes Netflix subscribers changes](https://github.com/kylekao/kylekao/blob/main/NETFLIX%20FINAL%20PROJECT.pdf) | \
 [Time Series and Causal analysis code](https://github.com/kylekao/R/commit/50159a5930e0d1fd96af70f5524bca6ee865820e)
