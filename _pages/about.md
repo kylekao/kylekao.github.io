@@ -16,4 +16,6 @@ Being as a Master student of Marketing Intelligence in USFCA, you gotta need to 
 For more info
 ------
 ### More info about Kyle, feel free to [contact](/contact) me.
-![Kyle](/images/og_image.webp "Kyle is here")
+![Kyle](/images/og_image.webp)
+<img scr="https://kylekao.github.io/master/images/og_image.webp" width="80%" height="60%">
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
