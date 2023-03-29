@@ -5,6 +5,7 @@ excerpt: "Every project that I worked is posted here"
 redirect_from: 
   - /portifolio/
   - /kk_portifolio/
+  - /portifolio/portifolio-1/
 
 collection: portfolio
 ---
