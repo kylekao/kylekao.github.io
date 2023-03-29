@@ -11,6 +11,7 @@ Being as a Master student of Marketing Intelligence in USFCA, you gotta need to 
 
 ### <a href="https://www.linkedin.com/in/kyleskao/"> My linkedin</a>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kyleskao" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kyleskao?trk=profile-badge">Kyle K.</a></div>
               
 ### <a href="mailto:skao3@usfca.edu"> My email</a>
