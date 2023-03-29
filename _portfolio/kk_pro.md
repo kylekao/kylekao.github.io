@@ -4,6 +4,7 @@ title: "# Kyle's Projects"
 excerpt: "Every project that I worked is posted here"
 redirect_from: 
   - /portifolio/
+  - /kk_portifolio/
 
 collection: portfolio
 ---
