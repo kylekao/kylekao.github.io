@@ -17,5 +17,3 @@ For more info
 ------
 ### More info about Kyle, feel free to [contact](/contact) me.
 ![Kyle](/images/og_image.webp)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
