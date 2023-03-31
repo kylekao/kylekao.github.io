@@ -13,14 +13,16 @@ collection: portfolio
 
 ### B. Survey Design & Data Collection 
 1. Qualtrics Link : <https://usfca.qualtrics.com/jfe/form/SV_3r5M3BP3jzI2j1s>
-2. Survey Design-Data analytics with R \
+2. [Tableau report](https://github.com/kylekao/kylekao/blob/cce545884dbd02ac7752bcc505222bc5540ef7e1/Survey%20Design%20&%20Data%20Collection-Airbnb-Tableau.pdf)
+3. Survey Design-Data analytics with R \
 **CODES**
 [Part1-Consumer Insights](https://github.com/kylekao/kylekao/blob/main/ci.R) |
 [Part2-App Interface](https://github.com/kylekao/kylekao/blob/main/apps.R) |
 [Part3-Price](https://github.com/kylekao/kylekao/blob/main/price.R) |
 [Part4-Promotion](https://github.com/kylekao/kylekao/blob/main/promo.R) |
 [Part5-Safety/Security](https://github.com/kylekao/kylekao/blob/main/SS.R)
-3. Survey Design-[Final Data Analysis with Report](https://github.com/kylekao/kylekao/blob/4219e0aad366dd33553bb9df1199e3503ce8b162/Final%20Data%20Analysis%20with%20Report-Airbnb-Section1-Group3.pdf)
+4. Survey Design-[Final Data Analysis with Report](https://github.com/kylekao/kylekao/blob/4219e0aad366dd33553bb9df1199e3503ce8b162/Final%20Data%20Analysis%20with%20Report-Airbnb-Section1-Group3.pdf)
+
 
 ### C.Experimental Design & Analysis- **[Final Project-Origami Frog Expriments and analysis](https://github.com/kylekao/kylekao/blob/d8f446bb39c0536ab9957977247aa5d14fb48407/Experimental%20Design%20&%20Analysis-Final%20Project.pdf)**
 
