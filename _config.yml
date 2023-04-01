@@ -22,7 +22,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyle Kao"
-  avatar           : "OG_photo_kyle_2023.webp"
+  avatar           : "profile_2023.webp"
   bio              : "A🦕 of USFCA💛💚drinking 🍎 🧃"
   location         : "San Francisco"
   employer         :
