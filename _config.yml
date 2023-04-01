@@ -9,12 +9,12 @@
 locale                   : "en-US"
 title                    : "KK website"
 title_separator          : "-"
-name                     : &name "Kyle.K"
-description              : "The world of KK starts here 💙"
+name                     : "Kyle.K"
+description              : "KK world starts here 💙"
 url                      : https://kylekao.github.io # the base hostname & protocol for your site  "https://kylekao.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kylekao/kylekao.github.io"
-og_image                 : "/images/og_image.webp" # Open Graph/Twitter default site image
+og_image                 : "/images/OG_photo_kyle_2023.webp" # Open Graph/Twitter default site image
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -22,15 +22,15 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : "https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963" #, e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyle Kao"
-  avatar           : "profile.webp"
+  avatar           : "OG_photo_kyle_2023.webp"
   bio              : "A🦕 of USFCA💛💚drinking 🍎 🧃"
   location         : "San Francisco"
   employer         :
