@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Marketing Intelligence, University of San Fancisco, 2023 (expected) 
-[Projects in MSMI, USFCA](/kk_portifolio/)
+[My Projects in MSMI, USFCA](/kk_portifolio/)
 * B.B.A in Internatilnal Business, Soochow University, 2013
 * Corsework of Computer Science in Python, Web Crawling, R, Data Science, MySQL, National Taiwan University, 2019
 
@@ -45,7 +45,7 @@ Skills
 ======
 * Technical: 
   * R
-  * SQL、MySQL
+  * SQL
   * Python
   * C++
   * Git
@@ -61,4 +61,4 @@ Skills
 
 Service and leadership
 ======
-* Group Leader - Boy Scouts of Taiwan
+* HHPS Group Leader( group 232 ) of Taipei Scout council - Boy Scouts of Taiwan
