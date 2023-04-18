@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 [My resume](/file/Kyle Kao-CV-2023.pdf)
+
 Education
 ======
 * M.S. in Marketing Intelligence, University of San Fancisco, 2023 (expected) 
@@ -51,8 +52,8 @@ Work experience
 Skills
 ======
 * Technical: 
-
-|:  R  :|:  SQL  :|: Python :|: C++ :|: Git :|: Markdown :|: KNIME :|: Google Analytics :|: Google Ads :|: Data Analysis :|  
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|R|SQL|Python|C++|Git|Markdown|KNIME|Google Analytics|Google Ads|Data Analysis| 
 
 * Tools:
 
