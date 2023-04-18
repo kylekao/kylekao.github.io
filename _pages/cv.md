@@ -52,8 +52,9 @@ Work experience
 Skills
 ======
 * Technical: 
+
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|R|SQL|Python|C++|Git|Markdown|KNIME|Google Analytics|Google Ads|Data Analysis| 
+| R | SQL | Python | C++ | Git | Markdown | KNIME | Google Analytics |Google Ads | Data Analysis | 
 
 * Tools:
 
