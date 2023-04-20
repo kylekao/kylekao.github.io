@@ -1,0 +1,57 @@
+---
+title: 'section 4'
+date: 2023-04-20
+permalink: /posts/sec4
+tags:
+  - diary
+  - Assignment 
+  - problems
+  - schedule
+---
+4/21 Story Telling with Data - Ch1+Ch2
+4/24 Marketing Strategy - Simple Energy
+4/28 Story Telling with Data - Ch3+Ch4
+4/28 Story Telling with Data - Assignment 1, 2, 3, 4
+
+|Assignment 1: Google Search Trends and Fast Fashion|
+|:---:|
+|Google Search is the leading search engine with 92% of the global market and 3.5 billion searches every day.|
+|Google Trends is a free tool which measures consumers’ search keywords. It can be used to understand consumer sentiment or more specifically, craft marketing strategies.|
+|Reference guide on how to use Google Trends: https://shorturl.at/akNX3|
+|For example, in 2022, the top four global searches were:|
+|1. Wordle|
+|2. India vs. England|
+|3. Ukraine|
+|4. Queen Elizabeth|
+|Many of the most popular searches in the US relate to social media or retailers (e.g., Facebook, Amazon, Walmart, Best Buy, Macy’s).|
+|Interestingly, the Chinese online retailer, Shein is in the top 100. Providing trending styles and low prices, Shein competes with other “fast fashion” retailers such as Zara and H&M. (Sadly, these companies are often criticized for their negative impact on the environment.)|
+**Your goal: Find data, insights, and a story idea around the popularity of Shein in the US.
+1. Go to: https://trends.google.com/home
+2. Enter a search term (Shein) and then, two more comparisons (Zara) and (H&M).
+3. List 5 queries that you did in your investigations.
+4. List 5 key insights you discovered.
+5. Create at least 1 graphic to support one or more of these insights.
+6. Based on your findings, what is your story idea? Explain in three sentences or less.
+7. Please use the .twbx and/or Word and PowerPoint file formats to upload a copy of your
+Tableau file to Canvas Discussion Board Assignment 1.
+
+4/29 Marketing Strategy - Team Strategy plan 
+4/29 Marketing Strategy - Dollar Tree
+4/29 Marketing Strategy - MARKSTRAT DECISION 1 2 3 4
+4/30 Marketing Strategy - MARKSTRAT DECISION 5 
+5/02 Story Telling with Data - Ch5+Ch6
+5/02 Story Telling with Data - Data Story 1
+5/03 Marketing Strategy - MARKSTRAT DECISION 6
+5/03 Marketing Analytics - Assignment 4
+5/03 Marketing Analytics - Quiz 4 - Ch8
+5/05 Story Telling with Data - CH7+Ch8
+5/05 Story Telling with Data - Data Story 2 and 3
+5/06 Marketing Strategy - MARKSTRAT DECISION 7
+5/08 Marketing Strategy - MARKSTRAT DECISION 8 9 10
+5/08 Marketing Strategy - EXAM
+5/08 Marketing Strategy - Anjelo’s Confectionaries
+5/10 Marketing Analytics - Quiz 5 - Ch10
+5/10 Marketing Analytics - Culminating Project
+5/12 Story Telling with Data - Final presentation
+5/15 Marketing Strategy - Omni Foods
+5/15 Marketing Strategy - MARKSTRAT presentation
