@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My resume](/file/Kyle Kao-CV-2023.pdf)
+[My resume](/file/Kyle Kao-CV-2023.pdf) \
+[Download it]<a href="/file/Kyle Kao-CV-2023.pdf" download="Kyle-Kao-Resume" target="blank">
+<button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button></a>
 
 Education
 ======
