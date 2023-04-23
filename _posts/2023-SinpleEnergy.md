@@ -1,7 +1,7 @@
 ---
 title: 'Simple Energy'
 date: 2023-04-22
-permalink: /posts/Cases/Simple_Energy/
+permalink: /posts/Cases_Simple_Energy/
 tags:
   - Marketing Strategy
   - Cases
