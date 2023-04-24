@@ -20,7 +20,7 @@ tags:
 
 ### 1. Executive Summary-overview of case
 ### Rajkumar want to build e-scooter in India, November 2019, Mark 1\
-### The founders needed to choose an appropriate launch Strategy, position
+### The founders needed to choose an appropriate launch Strategy, position the product in the market, and select a cost-efficient distribution channel.
 
 The business case for Simply Energy's launch strategy for the next generation electric scooter involves introducing a new, eco-friendly mode of transportation to the market that is affordable, convenient, and sustainable.\
 Simply Energy aims to capitalize on the growing demand for environmentally friendly products by offering a high-quality electric scooter that can meet the needs of urban commuters.
@@ -91,3 +91,6 @@ By focusing on product differentiation and developing a high-quality electric sc
 list of words:
 
 Juncture
+Entrants
+advent
+
