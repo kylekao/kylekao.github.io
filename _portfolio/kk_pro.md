@@ -10,8 +10,10 @@ redirect_from:
 collection: portfolio
 ---
 [My resume](/file/Kyle Kao-CV-2023.pdf)
-### Practicum project
+## Practicum Project
+
 1. Making marketing positioning plan to help appointment scheduling software solution build trust and credibility in body modification industry<br />
+
 ### A. Marketing Analytics [Time Series and Causal Analysis on finding out what causes Netflix subscribers changes](https://github.com/kylekao/kylekao/blob/main/NETFLIX%20FINAL%20PROJECT.pdf) | [Time Series and Causal analysis code](https://github.com/kylekao/R/commit/50159a5930e0d1fd96af70f5524bca6ee865820e)
 
 ### B. Survey Design & Data Collection 
