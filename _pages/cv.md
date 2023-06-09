@@ -30,6 +30,21 @@ Education
 
 Work experience
 ======
+- 2023: Secondary Research And Analytics Lead | Student Market Research Consultant
+  * BUSINESS MANAGEMENT SOFTWARE COMPANY | BODY ART INDUSTRY - Dublin, California, United States
+    * Collaborated on consulting project for master’s capstone, applying quantitative, qualitative, and secondary research to provide recommendations for customer retention and trust-building in an established vertical
+    * Conducted secondary research using business databases to understand the industry landscape and overall market trends
+    * Conducted user Quantitative survey interviews – understand key factors for company growth and improvement
+    * Participate in designing quantitative survey -- delegated tasks, structured questions, and programmed in Qualtrics to optimize data quality and alignment with objectives
+    * Analyzed qualitative customer interviews to extract key insights regarding current practices and pain points, producing recommendations for targeted strategies
+
+- 2023: Student Digital Marketing Consultant
+  * BOYS & GIRLS CLUBS OF NORTH SAN MATEO	- San Mateo County, California, United States
+    * Engaged in a consulting project as part of a digital marketing course, providing data-driven strategy recommendations for promoting volunteer signups that resulted in doubling the size of the team
+    * Analyzed ad campaign data from 12,000 impressions through A/B testing, generating actionable insights to increase engagement on Facebook
+    * Led a comprehensive website audit, analyzing navigational menus, multimedia content, and message tailoring to provide recommendations for streamlining user experience
+    * Presented practical digital strategy recommendations to the Communications Manager, focusing on optimizing marketing operations and achieving results efficiently
+
 - 2016 - 2022: Head of Sales & Marketing – Strategy, Revenue Generation
   * EMC - Taipei, Taiwan\
     * Performed data crawling on web, extraction, data cleansing and data profiling of TOEFL test on Python as teachers' resources 
