@@ -1,7 +1,7 @@
 ---
 title: 'Marketing Strategy'
 date: 2023-05-09
-permalink: /posts/2023-05-09/
+permalink: /posts/Marketing Strategy/
 tags:
   - KK wesite
   - diary

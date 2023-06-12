@@ -16,3 +16,14 @@ Never let em know ur sweating
 6. Tell them you don't have experience in the states, but what you have learned after study in the MSMI
 7. Do homework/ Research on the people, company Background and prepared for questions to ask
 8. Reach out the person you know about aht company before apply the company
+
+June 7th
+
+1.	Be curious
+2.	Develop an intellectual passion- seek to be different
+3.	Say Yes
+4.	Vesome an engaing presenter
+5.	Lead strongly
+
+June 11th
+Resume 可以反白通過第一關 ＸＤＤＤ

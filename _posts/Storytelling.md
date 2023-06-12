@@ -1,7 +1,7 @@
 ---
 title: 'Storytelling'
 date: 2023-04-28
-permalink: /posts/2023-04-28/
+permalink: /posts/Storytelling/
 tags:
   - KK wesite
   - diary
