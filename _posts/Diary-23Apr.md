@@ -1,7 +1,7 @@
 ---
 title: 'Diary'
 date: 2023-04-22
-permalink: /posts/diary/01/
+permalink: /posts/diary-23apr/
 tags:
   - diary
   - GitHub pages
