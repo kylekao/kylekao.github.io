@@ -18,6 +18,7 @@ June 15th Mock Interview
 2. How do you see yourself fit for the role of business analyst in our company?
 3. Do you have any experience in the States?
 
+4. what is your weakness?
 
 
 X. What is your expectation of salaries?

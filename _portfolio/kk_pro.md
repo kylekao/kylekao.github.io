@@ -9,7 +9,7 @@ redirect_from:
 
 collection: portfolio
 ---
-[My resume](/file/Kyle Kao-CV-2023.pdf)
+[My resume](/file/Kyle_Kao-CV-2023.pdf)
 ## Practicum Project
 1. Making marketing positioning plan to help appointment scheduling software solution build trust and credibility in body modification industry<br />
 
