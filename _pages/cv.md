@@ -18,7 +18,7 @@ Education
 [My Projects in MSMI, USFCA](/kk_portifolio/)
 - Marketing Analytics (Time Series Analysis & Forecasting), Survey Design, Data Storytelling, Consumer Behavior, Qualitative Market Research, Experimental Design, Applied Statistics in R
 - Machine Learning, Data Mining, Predictive Analytics, Big Data, Big Data & Data Engineering Platforms
-  - Practicum project, Making marketing positioning plan to help appointment scheduling software solution build trust and credibility in body modification industry
+  - Practicum project: Vagaro Inc. Partnership: Conduct market research through surveys & in-depth interviews for insight into the Tattoo industry to understand growth opportunities and client pain points
 	- “Time Series Analysis on finding out what causes Netflix subscribers changes”
 	- “Airbnb Consumer Insight Survey Design & Data Collection”
 	- “Experimental Design & Analysis on Origami Frog Experiment inspired by The High Price of Ownership”
@@ -31,7 +31,7 @@ Education
 Work experience
 ======
 - 2023: Secondary Research And Analytics Lead | Student Market Research Consultant
-  * BUSINESS MANAGEMENT SOFTWARE COMPANY | BODY ART INDUSTRY - Dublin, California, United States
+  * University of San Francisco School of Management · Internship San Francisco,CA
     * Collaborated on consulting project for master’s capstone, applying quantitative, qualitative, and secondary research to provide recommendations for customer retention and trust-building in an established vertical
     * Conducted secondary research using business databases to understand the industry landscape and overall market trends
     * Conducted user Quantitative survey interviews – understand key factors for company growth and improvement
@@ -39,7 +39,7 @@ Work experience
     * Analyzed qualitative customer interviews to extract key insights regarding current practices and pain points, producing recommendations for targeted strategies
 
 - 2023: Student Digital Marketing Consultant
-  * BOYS & GIRLS CLUBS OF NORTH SAN MATEO	- San Mateo County, California, United States
+  * BOYS & GIRLS CLUBS OF NORTH SAN MATEO	- San Mateo County ,CA
     * Engaged in a consulting project as part of a digital marketing course, providing data-driven strategy recommendations for promoting volunteer signups that resulted in doubling the size of the team
     * Analyzed ad campaign data from 12,000 impressions through A/B testing, generating actionable insights to increase engagement on Facebook
     * Led a comprehensive website audit, analyzing navigational menus, multimedia content, and message tailoring to provide recommendations for streamlining user experience

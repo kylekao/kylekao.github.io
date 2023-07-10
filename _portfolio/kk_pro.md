@@ -10,8 +10,7 @@ redirect_from:
 collection: portfolio
 ---
 [My resume](/file/Kyle_Kao-CV-2023.pdf)
-## Practicum Project
-1. Making marketing positioning plan to help appointment scheduling software solution build trust and credibility in body modification industry<br />
+## Practicum Project: Vagaro Inc. Partnership: Conduct market research through surveys & in-depth interviews for insight into the Tattoo industry to understand growth opportunities and client pain points.
 
 ### A. Marketing Analytics [Time Series and Causal Analysis on finding out what causes Netflix subscribers changes](https://github.com/kylekao/kylekao/blob/main/NETFLIX%20FINAL%20PROJECT.pdf) | [Time Series and Causal analysis code](https://github.com/kylekao/R/commit/50159a5930e0d1fd96af70f5524bca6ee865820e)
 
@@ -26,7 +25,6 @@ collection: portfolio
 [Part4-Promotion](https://github.com/kylekao/kylekao/blob/main/promo.R) |
 [Part5-Safety/Security](https://github.com/kylekao/kylekao/blob/main/SS.R)
 4. Survey Design-[Final Data Analysis with Report](https://github.com/kylekao/kylekao/blob/4219e0aad366dd33553bb9df1199e3503ce8b162/Final%20Data%20Analysis%20with%20Report-Airbnb-Section1-Group3.pdf)
-
 
 ### C.Experimental Design & Analysis- **[Final Project-Origami Frog Expriments and analysis](https://github.com/kylekao/kylekao/blob/d8f446bb39c0536ab9957977247aa5d14fb48407/Experimental%20Design%20&%20Analysis-Final%20Project.pdf)**
 
