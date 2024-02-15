@@ -65,7 +65,7 @@ Work experience
 Education
 ======
 * M.S. in Marketing Intelligence, University of San Fancisco, class of 2023\
-[My Projects in MSMI, USFCA](/kk_portifolio/)
+[My Projects in MSMI, USFCA](/kk_portifolio/)\
   Marketing Analytics (Time Series Analysis & Forecasting), Survey Design, Data Storytelling, Consumer Behavior, Qualitative Market Research, Experimental Design, Applied Statistics in R
   Machine Learning, Data Mining, Predictive Analytics, Big Data, Big Data & Data Engineering Platforms
   - Practicum project: Vagaro Inc. Partnership: Conduct market research through surveys & in-depth interviews for insight into the Tattoo industry to understand growth opportunities and client pain points
