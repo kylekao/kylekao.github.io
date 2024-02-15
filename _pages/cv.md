@@ -24,9 +24,9 @@ Work experience
     * Coordinate across sales, product engineering, and supply chain teams to secure computer component inventory and ensure timely delivery.
     * Prepare regular sales reports and forecasts on account progress, pipeline opportunities, and market insights.
     * Continuously identify and pursue new sales opportunities within existing accounts to develop them into high-value strategic partnerships.
+    * Serve as the primary point of contact for major accounts for order processing, renewals, troubleshooting, and satisfaction.
 
-7.Serve as the primary point of contact for major accounts for order processing, renewals, troubleshooting, and satisfaction
-- 2023: Secondary Research And Analytics Lead | Student Market Research Consultant
+- 2023: Secondary Research And Analytics Lead : Student Market Research Consultant
   * University of San Francisco School of Management · Internship San Francisco,CA
     * Collaborated on consulting project for master’s capstone, applying quantitative, qualitative, and secondary research to provide recommendations for customer retention and trust-building in an established vertical
     * Conducted secondary research using business databases to understand the industry landscape and overall market trends
