@@ -15,7 +15,7 @@ redirect_from:
 
 Work experience
 ======
-- 2023 - Present : Account Manager - Inside Sales, Customer Relationship Management, Business Development, Consumer Insights Analysis
+- 2023 - Present : Account Manager - Inside Sales, Customer Relationship Management, Business Development, Consumer Insights Analysis\
   [Ma Labs](https://www.malabs.com/)- San Jose, CA\
     * Develop and manage relationships with key accounts in the IT hardware industry to drive sales growth with average 25K in the first three months
     * Work closely with new and existing clients to understand their business needs and match them with relevant component solutions
@@ -64,10 +64,10 @@ Work experience
 
 Education
 ======
-* M.S. in Marketing Intelligence, University of San Fancisco, class of 2023 
+* M.S. in Marketing Intelligence, University of San Fancisco, class of 2023\
 [My Projects in MSMI, USFCA](/kk_portifolio/)
-- Marketing Analytics (Time Series Analysis & Forecasting), Survey Design, Data Storytelling, Consumer Behavior, Qualitative Market Research, Experimental Design, Applied Statistics in R
-- Machine Learning, Data Mining, Predictive Analytics, Big Data, Big Data & Data Engineering Platforms
+  Marketing Analytics (Time Series Analysis & Forecasting), Survey Design, Data Storytelling, Consumer Behavior, Qualitative Market Research, Experimental Design, Applied Statistics in R
+  Machine Learning, Data Mining, Predictive Analytics, Big Data, Big Data & Data Engineering Platforms
   - Practicum project: Vagaro Inc. Partnership: Conduct market research through surveys & in-depth interviews for insight into the Tattoo industry to understand growth opportunities and client pain points
 	- “Time Series Analysis on finding out what causes Netflix subscribers changes”
 	- “Airbnb Consumer Insight Survey Design & Data Collection”
