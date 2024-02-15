@@ -12,24 +12,20 @@ redirect_from:
 <a href="/file/Kyle_Kao-CV-2023.pdf" download="Kyle-Kao-Resume" target="blank">
 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button></a>
 
-Education
-======
-* M.S. in Marketing Intelligence, University of San Fancisco, 2023 (expected) 
-[My Projects in MSMI, USFCA](/kk_portifolio/)
-- Marketing Analytics (Time Series Analysis & Forecasting), Survey Design, Data Storytelling, Consumer Behavior, Qualitative Market Research, Experimental Design, Applied Statistics in R
-- Machine Learning, Data Mining, Predictive Analytics, Big Data, Big Data & Data Engineering Platforms
-  - Practicum project: Vagaro Inc. Partnership: Conduct market research through surveys & in-depth interviews for insight into the Tattoo industry to understand growth opportunities and client pain points
-	- “Time Series Analysis on finding out what causes Netflix subscribers changes”
-	- “Airbnb Consumer Insight Survey Design & Data Collection”
-	- “Experimental Design & Analysis on Origami Frog Experiment inspired by The High Price of Ownership”
-	- “Digital Marketing Consulting Project of Boys and Girls Club of North San Mateo County”
-	- “Whole Foods Market Strategy & Planning for Philippines Expansion” 
-
-* B.B.A in Internatilnal Business, Soochow University, 2013
-* Corsework of Computer Science in Python, Web Crawling, R, Data Science, MySQL, National Taiwan University, 2019
 
 Work experience
 ======
+- 2023 - Present : Account Manager - Inside Sales, Customer Relationship Management, Business Development, Consumer Insights Analysis.
+  *[Ma Labs](https://www.malabs.com/)
+    * Develop and manage relationships with key accounts in the IT hardware industry to drive sales growth with average 25K in the first three months.
+    * Work closely with new and existing clients to understand their business needs and match them with relevant component solutions.
+    * Deliver technical presentations and demos to client procurement teams on latest computing products and technologies.
+    * Negotiate contracts and close deals to meet annual sales targets and maximize profit margins.
+    * Coordinate across sales, product engineering, and supply chain teams to secure computer component inventory and ensure timely delivery.
+    * Prepare regular sales reports and forecasts on account progress, pipeline opportunities, and market insights.
+    * Continuously identify and pursue new sales opportunities within existing accounts to develop them into high-value strategic partnerships.
+
+7.Serve as the primary point of contact for major accounts for order processing, renewals, troubleshooting, and satisfaction
 - 2023: Secondary Research And Analytics Lead | Student Market Research Consultant
   * University of San Francisco School of Management · Internship San Francisco,CA
     * Collaborated on consulting project for master’s capstone, applying quantitative, qualitative, and secondary research to provide recommendations for customer retention and trust-building in an established vertical
@@ -65,6 +61,22 @@ Work experience
   * RAMMAX TECHNOLOGY CO., LTD	New Taipei City, Taiwan
     * 	Maintained e-commerce platforms (Amazon, Alibaba.com, Ruten.com.tw) to achieve an overall $80,000 in monthly sales revenue
     * 	Managed 2015 Computex as exhibition representative and created $9,000 worth of contracts from match making meetings
+
+Education
+======
+* M.S. in Marketing Intelligence, University of San Fancisco, class of 2023 
+[My Projects in MSMI, USFCA](/kk_portifolio/)
+- Marketing Analytics (Time Series Analysis & Forecasting), Survey Design, Data Storytelling, Consumer Behavior, Qualitative Market Research, Experimental Design, Applied Statistics in R
+- Machine Learning, Data Mining, Predictive Analytics, Big Data, Big Data & Data Engineering Platforms
+  - Practicum project: Vagaro Inc. Partnership: Conduct market research through surveys & in-depth interviews for insight into the Tattoo industry to understand growth opportunities and client pain points
+	- “Time Series Analysis on finding out what causes Netflix subscribers changes”
+	- “Airbnb Consumer Insight Survey Design & Data Collection”
+	- “Experimental Design & Analysis on Origami Frog Experiment inspired by The High Price of Ownership”
+	- “Digital Marketing Consulting Project of Boys and Girls Club of North San Mateo County”
+	- “Whole Foods Market Strategy & Planning for Philippines Expansion” 
+
+* B.B.A in Internatilnal Business, Soochow University, 2013
+* Corsework of Computer Science in Python, Web Crawling, R, Data Science, MySQL, National Taiwan University, 2019
 
 Skills
 ======
