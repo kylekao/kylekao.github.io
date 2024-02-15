@@ -16,7 +16,7 @@ redirect_from:
 Work experience
 ======
 - 2023 - Present : Account Manager - Inside Sales, Customer Relationship Management, Business Development, Consumer Insights Analysis
-  *[Ma Labs](https://www.malabs.com/)- San Jose, CA\
+  [Ma Labs](https://www.malabs.com/)- San Jose, CA\
     * Develop and manage relationships with key accounts in the IT hardware industry to drive sales growth with average 25K in the first three months
     * Work closely with new and existing clients to understand their business needs and match them with relevant component solutions
     * Deliver technical presentations and demos to client procurement teams on latest computing products and technologies
