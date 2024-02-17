@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My resume](/file/Kyle_Kao-CV-2023.pdf) 
-<a href="/file/Kyle_Kao-CV-2023.pdf" download="Kyle-Kao-Resume" target="blank">
+[My resume](/file/Kyle_Kao-CV-2024.pdf) 
+<a href="/file/Kyle_Kao-CV-2024.pdf" download="Kyle-Kao-Resume" target="blank">
 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button></a>
 
 
@@ -76,7 +76,7 @@ Education
 	- “Whole Foods Market Strategy & Planning for Philippines Expansion” 
 
 * B.B.A in Internatilnal Business, Soochow University, 2013
-* Corsework of Computer Science in Python, Web Crawling, R, Data Science, MySQL, National Taiwan University, 2019
+* Corsework of Computer Science in Python, Web Crawling, R, Data Science, MySQL, National Taiwan University, July 2019
 
 Skills
 ======
