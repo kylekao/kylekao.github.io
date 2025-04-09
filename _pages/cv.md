@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My resume](/file/Kyle_Kao-CV-2024.pdf) 
-<a href="/file/Kyle_Kao-CV-2024.pdf" download="Kyle-Kao-Resume" target="blank">
+[My resume](/file/Kyle_Kao-CV-2025.pdf) 
+<a href="/file/Kyle_Kao-CV-2025.pdf" download="Kyle-Kao-Resume" target="blank">
 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button></a>
 
 # Kyle Kao: Account Manager & Marketing Specialist
@@ -21,13 +21,22 @@ redirect_from:
 - **GitHub:** [github.com/kylekao](https://github.com/kylekao)
 
 ## Professional Summary
-Dynamic Account Manager and Marketing Specialist with a proven track record in driving revenue growth, developing strategic marketing campaigns, and leveraging data analytics to inform business decisions. Expert in cultivating client relationships, conducting technical presentations, and managing digital presence to enhance brand visibility and engagement.
+Results-driven Account Manager with 5+ years of experience in IT hardware sales and marketing. Skilled in CRM development, data analytics, and strategic planning. Proficient in Python, SQL, R, and VBA, with a strong background in marketing intelligence and business development.
 
 ## Professional Experience
 
+### MiTAC Computing Technology USA corp. Newark,CA
+**Sales Account Executive**
+_Nov 2024 - Present_
+- Strategic Account Management: Nurture key relationships in data center and cloud sectors.
+- Solution-Based Selling: Tailor server and storage solutions for edge computing, cloud, and AI/ML needs.
+- Technical Expertise: Apply knowledge of MiTAC server platforms for optimal IT solutions.
+- Cross-Functional Collaboration: Coordinate with engineering for seamless custom server delivery.
+- Market Intelligence: Analyze data to identify trends in the data center industry.
+
 ### MA Laboratories, Inc., San Jose, CA
 **Account Manager**  
-_Oct 2023 - Present_
+_Oct 2023 - Oct 2024_
 - Engineered a CRM system using Excel and VBA, improving data management and user interface.
 - Drove key account sales in the IT hardware sector, averaging $25,000 in monthly revenue.
 - Led technical presentations and demos, significantly influencing client purchasing decisions.
