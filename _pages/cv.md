@@ -12,7 +12,7 @@ redirect_from:
 <a href="/file/Kyle_Kao-CV-2025.pdf" download="Kyle-Kao-Resume" target="blank">
 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Print Resume</button></a>
 
-# Kyle Kao: Account Manager & Marketing Specialist
+# Kyle Kao: Sales Account Executive
 
 ## Contact Information
 - **Location:** San Jose, CA
